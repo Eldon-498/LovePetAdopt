@@ -2,12 +2,14 @@ import React, { useState, useEffect, useMemo } from 'react';
 import Hero from '../../components/hero';
 import { getPets } from '../../api/petfinder';
 import Pet from '../../components/pet';
+import { useHistory } from 'react-router-dom';
 
 // import useLocation here
 
 const SearchPage = () => {
 
-  // Get the search value from useLocation() here
+  // Get the search value from useLocation() here -- done
+  const history = useHistory();
   const search = 'REPLACE ME';
 
   const queryParams = useMemo(() => { 

@@ -5,7 +5,7 @@ import { useHistory } from 'react-router-dom';
 const Search = () => {
 
   // get the history object here
-  const history =useHistory();
+  const history  = useHistory();
   const searchInputRef = useRef();
 
   const onSearchHandler = (e) => {

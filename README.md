@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Overview
-this is a pet adoption website built using react. It utilizes react routing components to handle different page results and pet search functionality
+This is a pet adoption website built using react. It utilizes react routing components to handle different page results and pet search functionality
 
 
 

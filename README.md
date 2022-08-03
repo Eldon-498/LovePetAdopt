@@ -9,7 +9,7 @@ This is a pet adoption website built using react. It utilizes react routing comp
 
 ### View Live site
 
-Runs the app in production mode.\
+
 Open https://lighthearted-seahorse-05e21d.netlify.app to view it in the browser.
 
 
